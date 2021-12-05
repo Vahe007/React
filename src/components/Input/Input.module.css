@@ -1,0 +1,19 @@
+.input {
+    padding: 10px;
+    margin: 10px;
+    outline: none;
+    border-radius: 50px;
+    background-color: white;
+    text-align: center;
+    font-weight: 700;
+}
+.input1 {
+    padding: 10px;
+    margin: 10px;
+    outline: none;
+    border-radius: 50px;
+    background-color: white;
+    text-align: center;
+    font-weight: 700;
+    border: 2px solid red;
+}

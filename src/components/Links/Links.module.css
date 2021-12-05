@@ -1,0 +1,11 @@
+.link {
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: large;
+    /* color: green; */
+    font-weight: 800;
+    margin-right: 20px;
+}
+.link:hover {
+    color: black;
+}

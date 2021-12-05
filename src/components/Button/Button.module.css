@@ -1,0 +1,9 @@
+.button {
+    height: 30px;
+    width: max-content;
+    margin: 0 10px;
+    user-select: none;
+    cursor: pointer;
+    margin: 10px;
+    padding: 0 10px;
+}

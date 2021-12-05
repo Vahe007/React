@@ -1,0 +1,26 @@
+.top {
+    height: 70px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    transition: 0.3s ease;
+    right: 0;
+}
+.top1 {
+    height: 70px;
+    width: 92.68%;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    right: 0;
+    transition: 0.3s ease;                           /* cubic beizer not working */
+}
+.header {
+    height: 70px;
+    width: 100%;;
+}
